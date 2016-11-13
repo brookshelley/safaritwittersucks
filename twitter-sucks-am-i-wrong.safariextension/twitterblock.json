@@ -1,0 +1,12 @@
+[
+  {
+    "trigger":
+    {
+      "url-filter": "https?://(www.)?twitter.com"
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": ":matches(.dashboard-left, .dashboard-right, .moments, .SidebarCommonModules)"
+    }
+  }
+]
