@@ -1,5 +1,5 @@
 # safaritwittersucks
-safari port of Morgane's twitter sucks extension
+safari port of [Morgane's twitter sucks](https://github.com/morgane/twitter-sucks-am-i-wrong) extension
 
 This very basically removes everything from the Twitter webapp besides the timeline, tweet button, profile icon, search, messages, notifications, and home buttons.
 The goal is to create a chill timeline free from junk like moments, "who to follow," etc.
